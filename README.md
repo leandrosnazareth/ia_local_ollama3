@@ -7,7 +7,7 @@ Nessa Stack é possível utilizar um código da sua linguagem favorita e fazer r
 No exemplo apresentado nesse repositório, vamos gerar a documentação em Markdown de um código Python com Inteligência Artificial.
 
 ## Video tutorial
-
+https://www.youtube.com/watch?v=vZNPbaXR8j8
 
 ## Arquitetura
 ![image](assets/architecture.png)
