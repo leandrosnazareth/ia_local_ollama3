@@ -122,6 +122,10 @@ Exemplo da GPU em execução:
 
 ![image](assets/nvidia-running.png)
 
+## Instale o modelo dentro do container do Ollama
+```
+ollama run llama3.2
+```
 
 ## Caso de uso com Python
 O código ```main.py``` vai gerar uma documentação do completa na pasta ```docs``` do código ```sample-code.py``` da pasta ```src```
