@@ -1,1 +1,8 @@
 requests
+System Type: x64-based PC
+
+Processor(s): AMD64 Family 25 Model 116 Stepping 1 AuthenticAMD ~3801 Mhz
+
+Total Physical Memory: 32 039 MB
+
+GPU: Nvidia Geforce RTX 4050
